@@ -1,9 +1,20 @@
 # Temperature Sensor for Raspberry Pi
 
+## Installation
+
+First clone the respository using: 
+
+```
+git clone git@github.com:littlebirdelectronics/RaspberryPiTemperatureSensor.git; 
+cd ./RaspberryPiTemperatureSensor
+```
+
 To install run: 
 
+```
 chmod +x ./install.sh;
 ./install.sh;
+```
 
 The application will then be available in the Raspberry Pi Menu.
 
