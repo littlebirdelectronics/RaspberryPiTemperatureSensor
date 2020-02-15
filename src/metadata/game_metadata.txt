@@ -1,0 +1,6 @@
+devid=piaustralia
+devtitle=Temperature Sensor
+gameid=mygame
+gametitle=Temperature Sensor
+version=0.1
+icon=metadata/icon.png

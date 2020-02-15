@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Temperature Sensor
+Comment=Processing programming language
+Icon=/usr/share/pixmaps/TemperatureIcon.png
+Exec=/usr/local/bin/TemperatureSensor.bin
+Terminal=false
+Categories=Accessories;
